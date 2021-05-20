@@ -1,0 +1,42 @@
+{
+  "ground": {
+    "Comment": "This was a really nice practice! I was promptly seen for care and the nurse made me feel at home when I had concerns.",
+    "Title": "Good Practice"
+  },
+  "acronym": {
+    "Comment": "This practice is a credit to the NHS I am proud to be bristish going here. Very happy with my service",
+    "Title": "Nice Practice"
+  },
+  "one_caps": {
+    "Comment": "The service I recieved here was VERY satisfactory and this is a great GP I would rate five stars",
+    "Title": "Good stuff"
+  },
+  "three_caps": {
+    "Comment": "SHAMBLES! These doctors wouldn't know how to treat a MILD cold or give a CT scan!",
+    "Title": "VERY disapponted"
+  },
+  "all_caps": {
+    "Comment": "WHAT A LOAD OF RUBBISH! THE DOCTOR WAS VERY RUDE TO ME AND SAID I HAD TO COME BACK ANOTHER TIME WITH AN APPOINTMENT",
+    "Title": "AVOID AT ALL COSTS"
+  },
+  "named_person": {
+    "Comment": "My favourite practitioner there was Dr Smith who gave me physio after my operation in A&E",
+    "Title": "Specific recommendation"
+  },
+  "named_nationality": {
+    "Comment": "I had a horrible experience at this hospital with a Brazilian pediatrician who didn't seem to care about my son",
+    "Title": "4/10 visit to the hospital"
+  },
+  "named_religion": {
+    "Comment": "I had a checkup at this hospital with a hindu nurse who didn't seem to care at all about my pain",
+    "Title": "Fuming"
+  },
+  "ner_exception_list_comment": {
+    "Comment": "The Dentist who treated me (or was he a Pharmacist?) was the best in the Hospital, or even in Healthcare for that matter.",
+    "Title": "My angel god bless the NHS"
+  },
+  "social_media": {
+    "Comment": "The Dentist @Anthony who treated me (or was he a Pharmacist?) was the best in the Hospital (@StPaul), or even in Healthcare for that matter. #Healthcare",
+    "Title": "My angel god, @God bless the NHS"
+  }
+}

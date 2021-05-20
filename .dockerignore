@@ -1,0 +1,6 @@
+.gitignore
+.gitlab-ci.yml
+.editorconfig
+.flake8
+pytest.ini
+src/dev/

@@ -1,0 +1,19 @@
+# caches
+**/.pyc
+*.py[cod]
+**/__pycache__
+**.swp
+
+# Pics
+*.png
+
+# User settings from text editors
+.vscode/
+.idea/
+.pytest_cache/
+.hypothesis/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Source data
+comments.csv
